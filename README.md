@@ -13,8 +13,8 @@
 
 ## 📫 How to reach me:
 
-![Contact with me](https://skillicons.dev/icons?i=linkedin,instagram)
-
+[![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samarth-dadhaniya) 
+[![Contact with me](https://skillicons.dev/icons?i=instagram)](https://instagram.com/samarth_14_1_?igshid=ZDdkNTZiNTM=)
 
 
 <!--

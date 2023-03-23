@@ -9,7 +9,7 @@
 
 ## :student: What i Know
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,vscode,figma,xd,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,typescript,mysql,vscode,figma,xd,androidstudio)
 
 ## 📫 How to reach me:
 

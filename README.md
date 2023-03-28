@@ -14,8 +14,11 @@
 ## 📫 How to reach me:
 
 [![Contact with me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samarth-dadhaniya) 
+[![Contact with me](https://skillicons.dev/icons?i=githubE)](https://github.com/samarthdadhaniya) 
 [![Contact with me](https://skillicons.dev/icons?i=instagram)](https://instagram.com/samarth_14_1_?igshid=ZDdkNTZiNTM=)
-
+[![Contact with me](https://skillicons.dev/icons?i=twitter)](https://twitter.com/SAMARTH_14_1)
+[![Contact with me](https://skillicons.dev/icons?i=devto)](https://dev.to/samarth14)
+[![Contact with me](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/)
 
 <!--
 **samarthdadhaniya/samarthdadhaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

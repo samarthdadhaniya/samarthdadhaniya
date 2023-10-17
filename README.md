@@ -3,7 +3,7 @@
 ## :technologist: I am Front End developer.
 
 *   🌍  I'm based in Gujarat, India
-*   🖥️  I am pursuing Diploma in Computer Engineering
+*   🖥️  I am pursuing B.Tech
 *   🧠  Currently learning React.Js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 

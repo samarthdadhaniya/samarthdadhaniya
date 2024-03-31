@@ -1,10 +1,9 @@
 # Hi there 👋 I am Samarth Dadhaniya
 
-## :technologist: I am Front End developer.
+## :technologist: I am MERN Stack developer.
 
 *   🌍  I'm based in Gujarat, India
-*   🖥️  I am pursuing B.Tech
-*   🧠  Currently learning React.Js
+*   🖥️  Currently pursuing B.Tech IT
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ## :student: What i Know

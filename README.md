@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## :technologist: I am Samarth Dadhaniya.
+## :technologist: I'm Samarth Dadhaniya.
 
 *   😎  A MERN-Stack Developer
 *   🌍  I'm based in Gujarat, India

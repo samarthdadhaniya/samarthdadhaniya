@@ -2,10 +2,18 @@
 
 ## :technologist: I'm Samarth Dadhaniya.
 
-*   😎  A MERN-Stack Developer
-*   🌍  I'm based in Gujarat, India
-*   🖥️  Currently pursuing B.Tech IT
-*   🤝  I'm open to collaborating on interesting projects as a developer
+* 😎 I am a passionate MERN-Stack Developer, dedicated to crafting dynamic and responsive web applications.
+* 🌏 Proudly based in Gujarat, India, I embrace the vibrant culture and diverse tech ecosystem of the region.
+* 🎓 Currently, I am pursuing a B.Tech in Information Technology, where I am continually honing my skills in web development.
+* 🤝 I am always open to collaborating on innovative and impactful projects. Whether it's contributing to open-source projects.
+
+<!--
+😎  A MERN-Stack Developer
+🌍  I'm based in Gujarat, India
+🖥️ Currently pursuing B.Tech IT
+🤝  I'm open to collaborating on interesting projects as a developer
+-->
+
 
 ## :student: What i Know
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,ts,react,nodejs,express,mongodb,mysql,npm,yarn,postman,vscode,notion,figma,xd,androidstudio,vercel,vite)

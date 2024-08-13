@@ -1,6 +1,7 @@
 # Hey there! I'm Samarth. 👋🏻
 
 <!-- ## :technologist: I'm Samarth Dadhaniya. -->
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 * 😎 I am a passionate MERN-Stack Developer, dedicated to crafting dynamic and responsive web applications.
 * 🌏 Proudly based in Gujarat, India, I embrace the vibrant culture and diverse tech ecosystem of the region.

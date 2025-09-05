@@ -3,7 +3,7 @@
 <!-- ## :technologist: I'm Samarth Dadhaniya. -->
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-* 😎 I am a passionate MERN-Stack Developer, dedicated to crafting dynamic and responsive web applications.
+* 😎 I am a passionate Java Full-stack Developer, dedicated to crafting dynamic and responsive web applications.
 * 🌏 Proudly based in Gujarat, India, I embrace the vibrant culture and diverse tech ecosystem of the region.
 * 🎓 Currently, I am pursuing a B.Tech in Information Technology, where I am continually honing my skills in web development.
 * 🤝 I am always open to collaborating on innovative and impactful projects. Whether it's contributing to open-source projects.
